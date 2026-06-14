@@ -26,6 +26,11 @@ Salviati: Exactly. In classical mechanics, $E$ and $B$—the sources of "force"
 
 
 
+【Reference】
+ [1] A. Tonomura, Mede miru utsukushii ryoshi rikigaku [Beautiful Quantum Mechanics Through
+    Eyes], Saiensu Sha, 2010.
+
+
 初出公開日：2026年6月14日（JST）
 Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
 Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
