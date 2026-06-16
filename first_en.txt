@@ -6,15 +6,16 @@ Characters:
 • The Existing Intellect (Simplicio): A staunch believer in the Copenhagen interpretation and Quantum Field Theory.
 • The Seeker (Sagredo): One who harbors doubts about the "convoluted expressions" of modern physics.
 
+
 Act I: The Cumbersomeness of Observation and the Absence of Reality
 Sagredo: Modern physics tells us that "a state is not determined until it is observed." But they do not mean this as a mere confession of human ignorance—a simple "we do not know." They claim that reality "truly does not exist" until that moment. I find this expression intolerably unnatural.
 Simplicio: That is because your intuition is shackled to the macroscopic world. If you look at the violation of Bell’s inequality or the double-slit experiment, you will see that "reality"—the idea that a particle possesses a specific state in advance—is mathematically negated.
-Salviati: Wait. Is it not possible that existing physics was forced to negate "reality" simply because they insisted on describing the universe as a "continuum" (analog)? If we assume the world is a "discrete" (digital) system with Planck’s constant $h$ as its minimum unit, that dissonance vanishes.
+Salviati: Wait. Is it not possible that existing physics was forced to negate "reality" simply because they insisted on describing the universe as a "continuum" (analog)? If we assume the world is a "discrete" (digital) system with Planck’s constant $h$ as its minimum unit, that dissonance vanishes.[1]
 
 Act II: The Scalpel of Digital Signal Theory
 Salviati: In Digital Signal Theory, if the sampling rate (resolution) is insufficient, a phenomenon known as "Aliasing" occurs. This is not a loss of information; rather, it is a phenomenon where waves of different frequencies overlap as mathematically "indistinguishable" identical waveforms.
 Sagredo: So, you are saying that what we call "quanta" are nothing more than "aliases" (mirror images) projected onto the sampling grid of $h$ from a higher-dimensional reality?
-Salviati: Precisely. Every particle possesses its own system clock, synchronized at the moment of the universe's creation, and an autonomous computational algorithm. Regardless of whether they are observed, they autonomously compute and determine their states, moment by moment, according to their own internal clocks.
+Salviati: Precisely. Every particle possesses its own system clock, synchronized at the moment of the universe's creation, and an autonomous computational algorithm. Regardless of whether they are observed, they autonomously compute and determine their states, moment by moment, according to their own internal clocks.[2]
 
 Act III: The Uncomputed and the New "Principle of Reality"
 Sagredo: But then, why does it appear as if states are "superposed" before observation?
@@ -24,7 +25,7 @@ Salviati: Those are the "New Principles of Reality" defined by a digital syst
 
 Act IV: The New Horizon of Physics
 Sagredo: Then non-local correlation is also just "independent simultaneous execution via a shared clock," requiring no superluminal propagation of information.
-Salviati: Exactly. From this perspective, physics is liberated from the "labyrinth of interpretation" and evolves into a consistent, robust realism.
+Salviati: Exactly. From this perspective, physics is liberated from the "labyrinth of interpretation" and evolves into a consistent, robust realism.[3][4]
 Simplicio: Ultimately, your words are mere hollow theories. Mere gibberish without a single equation.
 Salviati: I do not mind. Truth does not exist to be recognized by someone; it simply "is."
 Sagredo: But tell me one thing. This concept of the "Field" in physics, which you all now revere above all else... Who was the first to find and proclaim it?
@@ -37,11 +38,26 @@ The dominant school of thought in 20th-century physics. A philosophy that traded
 
 (Curtain Falls)
 
+
+
+
 Notes:
 1. Aliasing: Bose statistics is a mathematical consequence of information redundancy caused by discrete sampling.
 2. System Clock: Non-locality is a phenomenon born from the independent execution of processes synchronized by a shared clock.
 3. Uncomputed: Superposition is a standby state that has not yet reached its autonomous computation time.
 4. Principle of Reality: The self-evident definition that "Reality is the occupation of an address," encompassing even Fermi statistics.
+
+
+【References】
+[1] Planck, M. (1900). "Ueber das Gesetz der Energieverteilung im Normalspectrum". Annalen der 
+　　Physik, 309(3), 553-563.
+[2] Zuse, K. (1969). Calculating Space. Friedrich Vieweg & Sohn.
+[3] Bohm, D. (1952). "A Suggested Interpretation of the Quantum Theory in Terms of 'Hidden' 
+　　Variables.". Physical Review, 85(2), 166-193.
+[4] Takeuchi, K. (2022). Zero kara Manabu Ryoshirikyaku Fukyu-ban [Learning Quantum Mechanics 
+　　from Scratch, Popular Edition]. Kodansha. (in Japanese).
+
+
 初出公開日：2026年6月11日（JST）
 Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
 Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 

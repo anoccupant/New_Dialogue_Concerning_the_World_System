@@ -12,7 +12,7 @@ Sagredo: Quantum mechanics, represented by the Schrödinger equation, is natura
 
 Act II: Tonomura’s Great Experiment
 Simplicio: So, it comes down to whether or not one possesses the concept of "phase information," which cannot be described by real numbers alone.
-Salviati: Precisely. This phase information is the fundamental concept that forms the core of quantum mechanics. The definitive proof of this is the verification experiment of the Aharonov-Bohm (AB) effect conducted by Akira Tonomura.
+Salviati: Precisely. This phase information is the fundamental concept that forms the core of quantum mechanics. The definitive proof of this is the verification experiment of the Aharonov-Bohm (AB) effect conducted by Akira Tonomura. [5]
 Simplicio: He confirmed that in a region where no magnetic field ($B$) exists, the vector potential ($A$) exerts an influence on the phase information of the electron’s matter wave. That was a monumental experiment that established $A$ not as a fictional product of mathematical technique, but as something "real and more fundamental."
 
 Act III: The Three Sacred Treasures
@@ -20,15 +20,17 @@ Salviati: Correct. However, the fact that $A$ is fundamental and real is someth
 Sagredo: A "toroidal magnet," a "superconductor," and a "coherent electron gun." So, with these Three Sacred Treasures, the moment of phase computation was finally brought to light?
 
 Act IV: A Natural Conclusion
-Salviati: Exactly. In classical mechanics, $E$ and $B$—the sources of "force" (the absolute value of complex numbers)—are the protagonists. But the moment we enter the realm of quantum mechanics, $A$ takes the leading role. And it should; for $A$ was the only thing capable of influencing the phase.
+Salviati: Exactly. In classical mechanics, $E$ and $B$—the sources of "force" (the absolute value of complex numbers)—are the protagonists. But the moment we enter the realm of quantum mechanics, $A$ takes the leading role. And it should; for $A$ was the only thing capable of influencing the phase. [6]
 
 (Curtain Falls)
 
 
 
-【Reference】
- [1] A. Tonomura, Mede miru utsukushii ryoshi rikigaku [Beautiful Quantum Mechanics Through
-    Eyes], Saiensu Sha, 2010.
+【References】
+[5] Tonomura, A. (2010). Me de Miru Utsukushii Ryoshirikyaku [Beautiful Quantum Mechanics to See 
+　　with Your Eyes]. Science-sha. (in Japanese).
+[6] Murakami, M. (2020). Naruhodo Bekutoru Potensharu [I See! Vector Potential]. Uminari-sha. (in 
+　　Japanese).
 
 
 初出公開日：2026年6月14日（JST）

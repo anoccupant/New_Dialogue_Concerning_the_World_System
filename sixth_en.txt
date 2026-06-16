@@ -16,7 +16,7 @@ Sagredo: In our world, the curl operator signifies a right-handed rotation. T
 
 Act III: The Alias of Our Universe
 Simplicio: Then what of a world represented by complex basis functions with negative frequency components?
-Sagredo: That would be a world requiring a left-handed curl operator. There, time would flow backward, and electrons would be subject to an opposite Lorentz force. What exists there is antimatter. The true nature of what physicists feared as "time flowing backward" is simply this negative rotational component.
+Sagredo: It is a world that necessitates the left-handed curl operator. In our world, governed by the right-handed curl operator, a positive charge is subject to a right-handed force; this is what we define as "matter." Conversely, in a world where the left-handed curl operator is required, a positive charge is subject to a left-handed force—and this is the true definition of "antimatter." Physicists, reluctant to define a left-handed curl operator, introduced the concepts of negative velocity and time proceeding toward negative infinity, describing it as "antimatter appearing to move backward in time." However, this is not an essential interpretation; it is merely an engineering technique. What matters in physics is that, if identical results are obtained, one must adopt the logic that preserves symmetry and causality, even if the mathematical formulas become more complex. This is the fundamental difference between the Copenhagen interpretation and the Bohmian interpretation [3][4]. It goes without saying which of the two these theories correspond to.
 Simplicio: ……
 Salviati: Correct. Our physical laws adopt the "right-hand rule" simply because our universe selected right-handed rotation as its fundamental operation. Since mathematics permits both right-handed and left-handed rotation, the Architect’s computing engine outputs both as "reality."
 
@@ -33,6 +33,13 @@ Notes:
 1. Alias: In the direction of rotation, there is no "real" or "fake." An "alias" is nothing more than a product of the ego's subjectivity claiming itself as the original. Aliases are twins—mathematically, they are N-tuplets. Here, one should recall the specification: "Whatever exists mathematically, exists in reality."
 2. Four-Dimensional Digital Matrix Memory Space: The original computing engine of the Architect is different from our own degraded devices. It requires neither registers nor data buses. Within the main memory space, all computation and self-recording are repeated.
 
+
+【References】
+[3] Bohm, D. (1952). "A Suggested Interpretation of the Quantum Theory in Terms of 'Hidden' 
+　　Variables.". Physical Review, 85(2), 166-193.
+[4] Takeuchi, K. (2022). Zero kara Manabu Ryoshirikyaku Fukyu-ban [Learning Quantum Mechanics 
+　　from Scratch, Popular Edition]. Kodansha. (in Japanese).
+　　
 
 初出公開日：2026年6月14日（JST）
 Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)

@@ -51,3 +51,12 @@ Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Addre
 本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
 Unauthorized reproduction, modification, or distribution of this work, 
 in whole or in part, is strictly prohibited.
+
+
+
+Revision History (Common to all episodes):
+June 17, 2026 (JST)
+- Added References [1] through [6].
+- Corrected the logical error regarding the "reversal of time" in Part 6.
+- Added further discussion on the importance of interpretation following the correction of the "reversal 
+　of time" theory.

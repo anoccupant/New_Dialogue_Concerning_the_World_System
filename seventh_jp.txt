@@ -53,3 +53,12 @@ Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Addre
 本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
 Unauthorized reproduction, modification, or distribution of this work, 
 in whole or in part, is strictly prohibited.
+
+
+
+
+改訂履歴（全話共通）：
+　　2026年6月17日（JST）
+　　　・参考文献[1]～[6]を追記。
+　　　・第６話における「時間の逆行」に関する論理の間違いを訂正。
+　　　・同じく「時間の逆行」の訂正に伴い、解釈の重要性を加筆。
