@@ -97,3 +97,21 @@ The Final Act (Part 7) reveals that the Universal System Clock—once thought to
 * Part 6: The Ultimate Reality / 第６話　究極の真理
 * Part 7: (Conclusion) The Truth Once Resolved / 第７話（最終話）解決したはずの真理
 
+\---
+
+Revision History (Common to all episodes):
+June 17, 2026 (JST)
+- Added References [1] through [6].
+- Corrected the logical error regarding the "reversal of time" in Part 6.
+- Added further discussion on the importance of interpretation following the correction of the "reversal 
+　of time" theory.
+
+改訂履歴（全話共通）：
+
+　　2026年6月17日（JST）
+  
+　　　・参考文献[1]～[6]を追記。
+   
+　　　・第６話における「時間の逆行」に関する論理の間違いを訂正。
+   
+　　　・同じく「時間の逆行」の訂正に伴い、解釈の重要性を加筆。
